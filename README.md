@@ -41,7 +41,7 @@ Avaliamos a performance e ajustamos os hiperparâmetros do Random Forest para ob
 Clone este repositório no terminal utilizando git:
 
 ```
-git clone clone https://github.com/JvWandermurem/Modelo-Preditivo.git
+git clone  https://github.com/JvWandermurem/Modelo-Preditivo.git
 ```
 
 Execute o notebook 

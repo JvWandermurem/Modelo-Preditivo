@@ -60,8 +60,8 @@ Certifique-se de que os arquivos train.csv e test.csv estão no mesmo diretório
 - **shap:** Para visualização de explicações de modelos.
 
 ## Estrutura dos Dados
-train.csv: Conjunto de treino que contém as features (variáveis independentes) e o alvo (popularidade da música).
-test.csv: Conjunto de teste que contém apenas as features, para prever a popularidade.
+**train.csv:** Conjunto de treino que contém as features (variáveis independentes) e o alvo (popularidade da música).<p>
+**test.csv:** Conjunto de teste que contém apenas as features, para prever a popularidade.<p>
 Features Presentes no arquivo csv: 
  | Column             | Dtype   |
 |--------------------|---------|
